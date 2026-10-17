@@ -11,7 +11,7 @@ Fingerprint: 83527391
 
 ## AI-use declaration
 
-I used ChatGPT to help review my answers, check numerical calculations, and improve the clarity of my explanations. I also used the course repository and its instructions to understand the required format and the purpose of each task.  I reviewed the suggested corrections and remain responsible for the final answers. Numerical results, costs, confidence intervals, and claims about data protection must be verified against my own dataset and the formulas provided in the course materials. 
+I used Claude to help review my answers, check numerical calculations, and improve the clarity of my explanations. I also used the course repository and its instructions to understand the required format and the purpose of each task.  I reviewed the suggested corrections and remain responsible for the final answers. Numerical results, costs, confidence intervals, and claims about data protection must be verified against my own dataset and the formulas provided in the course materials. 
 
 ## Part 1: Retrieval and cost decision
 
